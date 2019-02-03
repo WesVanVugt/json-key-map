@@ -1,0 +1,23 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "ban-comma-operator": true,
+        "interface-name": [
+            false
+        ],
+        "linebreak-style": [
+            true,
+            "LF"
+        ],
+        "no-namespace": [
+            true,
+            "allow-declarations"
+        ],
+        "object-literal-sort-keys": false,
+        "prefer-for-of": false,
+        "variable-name": [
+            true,
+            "allow-leading-underscore"
+        ]
+    }
+}

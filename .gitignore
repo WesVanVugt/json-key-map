@@ -1,0 +1,4 @@
+node_modules/
+*.tgz
+/test-package/ts/main.test.ts
+.nyc_output
