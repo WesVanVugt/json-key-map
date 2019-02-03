@@ -1,6 +1,6 @@
 {
     "name": "json-key-map",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A module for mapping between JSON keys and values",
     "keywords": [
         "json",
